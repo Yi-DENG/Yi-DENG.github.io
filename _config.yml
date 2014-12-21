@@ -3,10 +3,10 @@
 # ----------------------- #
 
 url: http://yi-deng.github.io
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
-simple_search: https://www.google.com/search
+title: Yi DENG's Blog
+subtitle: A growing data scientist
+author: Yi DENG
+simple_search: https://www.baidu.com/
 description:
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
