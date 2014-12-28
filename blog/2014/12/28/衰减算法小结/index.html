@@ -127,7 +127,6 @@ expo &lt;- 2^(-t/L)
 # 韦伯衰减（Weibull Decay Function）
 weib.1 &lt;- exp(-(t/L)^k1 * log(2))
 weib.2 &lt;- exp(-(t/L)^k2 * log(2))
-weib.x &lt;- exp(-(t/L)^(seq(0,10, 0.5)) * log(2))
 
 # 画图
 data &lt;- cbind(linear, expo, weib.1, weib.2)

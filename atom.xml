@@ -4,7 +4,7 @@
   <title><![CDATA[Yi DENG's Blog]]></title>
   <link href="http://yi-deng.github.io/atom.xml" rel="self"/>
   <link href="http://yi-deng.github.io/"/>
-  <updated>2014-12-28T17:52:37+08:00</updated>
+  <updated>2014-12-28T19:43:30+08:00</updated>
   <id>http://yi-deng.github.io/</id>
   <author>
     <name><![CDATA[Yi DENG]]></name>
@@ -147,7 +147,6 @@ expo &lt;- 2^(-t/L)
 # 韦伯衰减（Weibull Decay Function）
 weib.1 &lt;- exp(-(t/L)^k1 * log(2))
 weib.2 &lt;- exp(-(t/L)^k2 * log(2))
-weib.x &lt;- exp(-(t/L)^(seq(0,10, 0.5)) * log(2))
 
 # 画图
 data &lt;- cbind(linear, expo, weib.1, weib.2)
