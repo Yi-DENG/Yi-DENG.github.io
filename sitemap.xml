@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://yi-deng.github.io/blog/2015/03/15/%E8%B4%AD%E7%89%A9%E7%AF%AE%E5%88%86%E6%9E%90%EF%BC%88Apriori%E5%85%88%E9%AA%8C%E7%AE%97%E6%B3%95%EF%BC%89/</loc>
+    <lastmod>2015-03-15T00:00:00+08:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>http://yi-deng.github.io/blog/2014/12/28/%E8%A1%B0%E5%87%8F%E7%AE%97%E6%B3%95%E5%B0%8F%E7%BB%93/</loc>
     <lastmod>2014-12-28T00:00:00+08:00</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://yi-deng.github.io/blog/2014/12/20/%E6%AF%95%E4%B8%9A%E5%8D%8A%E5%B9%B4%E9%9A%8F%E7%AC%94/</loc>
-    <lastmod>2014-12-20T00:00:00+08:00</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>http://yi-deng.github.io/blog/archives/</loc>
-    <lastmod>2014-12-28T21:15:09+08:00</lastmod>
+    <lastmod>2015-03-16T22:02:58+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://yi-deng.github.io/</loc>
-    <lastmod>2014-12-28T21:15:09+08:00</lastmod>
+    <lastmod>2015-03-16T22:02:58+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
